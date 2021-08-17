@@ -1,1 +1,3 @@
-code in the master branch
+<<<<<<< HEAD
+some code in feature branch
+>>>>>>> feature
